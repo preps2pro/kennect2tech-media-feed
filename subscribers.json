@@ -1,0 +1,25 @@
+{
+  "test@example.com": {
+    "token": "kFJ-x-3J5i864g5uR3jqVPslY14daU4YsVNkE2EYpyU",
+    "subscribed_at": "2025-12-20T11:28:25.020661",
+    "preferences": {
+      "categories": [
+        "nft",
+        "vc"
+      ],
+      "frequency": "weekly"
+    },
+    "active": true
+  },
+  "simple@example.com": {
+    "token": "B7y_2RB6C6xC-sdNtKKYBttyuQ-e1U8SAs6KrvOL-MQ",
+    "subscribed_at": "2025-12-20T11:28:54.152775",
+    "preferences": {
+      "categories": [
+        "all"
+      ],
+      "frequency": "weekly"
+    },
+    "active": true
+  }
+}
