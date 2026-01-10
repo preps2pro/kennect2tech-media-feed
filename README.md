@@ -1,24 +1,4 @@
 
-
-## Development & Deployment
-
-The `.replit` configuration defines modules, workflows, port mappings, and deployment targets.  
-For development setup and deployment procedures, see:  
-https://deepwiki.com/preps2pro/kennect2tech-media-feed/10-development-and-deployment
-
-
-
-## Related Systems
-
-The kennect2tech-media-feed is part of the broader **Kennect2Tech ecosystem**:
-
-- **Kennect2Tech** – Parent platform for Web3 sports technology
-- **Preps2Pro** – Youth athlete development platform
-- **Pro Ownership** – Athlete monetization framework
-- **Preps2Pro Wallet** – Planned digital wallet for athletes
-
-
-
 # kennect2tech-media-feed
 kennect2tech media feed and news hub# Kennect2Tech Media Feed
 
@@ -98,4 +78,25 @@ This repository is under continuous iteration as part of the Kennect2Tech ecosys
 
 For collaboration, media partnerships, or platform inquiries:
 Kennect2Tech
+
+
+
+## Development & Deployment
+
+The `.replit` configuration defines modules, workflows, port mappings, and deployment targets.  
+For development setup and deployment procedures, see:  
+https://deepwiki.com/preps2pro/kennect2tech-media-feed/10-development-and-deployment
+
+
+
+
+## Related Systems
+
+The kennect2tech-media-feed is part of the broader **Kennect2Tech ecosystem**:
+
+- **Kennect2Tech** – Parent platform for Web3 sports technology
+- **Preps2Pro** – Youth athlete development platform
+- **Pro Ownership** – Athlete monetization framework
+- **Preps2Pro Wallet** – Planned digital wallet for athletes
+
 
