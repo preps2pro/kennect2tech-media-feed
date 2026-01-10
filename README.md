@@ -8,6 +8,16 @@ https://deepwiki.com/preps2pro/kennect2tech-media-feed/10-development-and-deploy
 
 
 
+## Related Systems
+
+The kennect2tech-media-feed is part of the broader **Kennect2Tech ecosystem**:
+
+- **Kennect2Tech** – Parent platform for Web3 sports technology
+- **Preps2Pro** – Youth athlete development platform
+- **Pro Ownership** – Athlete monetization framework
+- **Preps2Pro Wallet** – Planned digital wallet for athletes
+
+
 
 # kennect2tech-media-feed
 kennect2tech media feed and news hub# Kennect2Tech Media Feed
