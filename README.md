@@ -1,3 +1,14 @@
+
+
+## Development & Deployment
+
+The `.replit` configuration defines modules, workflows, port mappings, and deployment targets.  
+For development setup and deployment procedures, see:  
+https://deepwiki.com/preps2pro/kennect2tech-media-feed/10-development-and-deployment
+
+
+
+
 # kennect2tech-media-feed
 kennect2tech media feed and news hub# Kennect2Tech Media Feed
 
