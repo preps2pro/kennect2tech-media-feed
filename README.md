@@ -108,3 +108,8 @@ The kennect2tech-media-feed is part of the broader **Kennect2Tech ecosystem**:
 - **Preps2Pro Wallet** – Planned digital wallet for athletes
 
 
+Copyright (c) 2026 [Your Name / Company].
+
+All rights reserved. 
+This code is provided for evaluation and integration under agreed engagement terms only.
+No redistribution, reuse, or derivative works without written permission.
