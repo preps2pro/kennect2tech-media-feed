@@ -1,10 +1,12 @@
 
-kennect2tech.com
+
 
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/preps2pro/kennect2tech-media-feed)
 
 # Kennect2Tech Media Feed
+
+kennect2tech.com
 
 AI-powered Web3 sports intelligence and media aggregation platform.
 
