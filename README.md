@@ -4,9 +4,10 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/preps2pro/kennect2tech-media-feed)
 
-# Kennect2Tech Media Feed
+# Kennect2Tech Media Feed https://www.kennect2tech.com
 
-kennect2tech.com
+
+
 
 AI-powered Web3 sports intelligence and media aggregation platform.
 
